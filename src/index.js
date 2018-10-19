@@ -5,7 +5,7 @@ import otherScream from './scream'
 console.log('index.js');
 
 
-console.log(add(32, 1));
+console.log(add(32, 4));
 
 console.log(name);
 
